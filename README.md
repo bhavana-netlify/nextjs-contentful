@@ -117,13 +117,3 @@ Navigate to the project directory in a terminal window and run:
 npm run dev
 ```
 
-## Deploy this site to Vercel
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fwhitep4nth3r%2Fnextjs-contentful-blog-starter)
-
-During the deploy process, add the following environment variables to Vercel. Use the same credentials as you set up in your local development environment.
-
-```text
-CONTENTFUL_SPACE_ID
-CONTENTFUL_ACCESS_TOKEN
-```
