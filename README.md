@@ -1,4 +1,4 @@
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bhavana-netlify/nextjs-contentful.git)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bhavana-netlify/nextjs-contentful)
 
 # Next.js + Contentful Blog Starter
 
