@@ -1,5 +1,7 @@
 // Docs on event and context https://www.netlify.com/docs/functions/#the-handler-method
+const { schedule } = require('@netlify/functions')
 const handler = async (event) => {
+  console.log("Received event:", event)
   try {
     const subject = event.queryStringParameters.name || 'World'
     return {
@@ -15,3 +17,6 @@ const handler = async (event) => {
 }
 
 module.exports = { handler }
+
+
+module.exports.handler = schedule("@hourly", handler);
