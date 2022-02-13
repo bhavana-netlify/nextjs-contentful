@@ -1,10 +1,12 @@
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bhavana-netlify/nextjs-contentful)
 
-# Next.js + Contentful Blog Starter
+# Next.js + Contentful Site for DocuSign Workshop
 
 ![A screenshot of the Next.js Contentful starter home page](screenshot.png)
 
 This is an example repository for you to use to create a new blog site using Next.js and Contentful, using Contentful's GraphQL API.
+
+This is cloned from Salma's demo here: https://github.com/whitep4nth3r/nextjs-contentful-blog-starter
 
 This uses the Essential Next.js plugin on Netlify that will set up all the functions and logic needed to run Next.js applications. 
 
