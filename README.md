@@ -8,7 +8,7 @@ This is an example repository for you to use to create a new blog site using Nex
 
 This is cloned from Salma's demo here: https://github.com/whitep4nth3r/nextjs-contentful-blog-starter
 
-This uses the Essential Next.js plugin on Netlify that will set up all the functions and logic needed to run Next.js applications. 
+This uses the [Essential Next.js plugin](https://github.com/netlify/netlify-plugin-nextjs/blob/main/docs/release-notes/v4.md) on Netlify that will set up all the functions and logic needed to run Next.js applications. 
 
 ## View the demo site
 
