@@ -3,5 +3,3 @@
   CONTENTFUL_ACCESS_TOKEN = "Set this to your Contentful access token"
 
 
-[[plugins]]
-package = "./plugins/netlify-purge-cloudflare-on-deploy"
