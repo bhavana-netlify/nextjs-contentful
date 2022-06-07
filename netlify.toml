@@ -3,3 +3,5 @@
   CONTENTFUL_ACCESS_TOKEN = "Set this to your Contentful access token"
 
 
+[[redirects]]
+/blog /https://netlify.com 200
